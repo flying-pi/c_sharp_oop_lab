@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{A2132D12-791B-453A-9CD8-5243E5A0C5C2}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="class_diagram_lab/Tests/TestList.cs">
+    <Files>
+      <File FileName="class_diagram_lab/Tests/TestList.cs" Line="1" Column="1" />
+      <File FileName="class_diagram_lab/IContainer.cs" Line="1" Column="1" />
+      <File FileName="class_diagram_lab/containers/IList.cs" Line="7" Column="1" />
+      <File FileName="class_diagram_lab/IProduct.cs" Line="3" Column="30" />
+      <File FileName="class_diagram_lab/containers/ArrayBaseList.cs" Line="30" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.class__diagram__lab PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
